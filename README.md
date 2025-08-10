@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omkar Kallekar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer from Goa India</h3>
 
 - 🌱 I’m currently learning **Backend development using Node.js, Express and MongoDB**
 
-- 📫 How to reach me **omkark6342@gmail.com**
+- 📫 How to reach me? **omkark6342@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1mWPi4pSqLMJNlkDasc_YWCd5vlXIKeStDbGftJsoC8k/edit?usp=sharing](https://docs.google.com/document/d/1mWPi4pSqLMJNlkDasc_YWCd5vlXIKeStDbGftJsoC8k/edit?usp=sharing)
 
