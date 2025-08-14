@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Kallekar</h1>
 <h3 align="center">A passionate developer from Goa India</h3>
 
+- 💼 An Associate Software Engineer at **Accenture India**
 - 🌱 I’m currently learning **Backend development using Node.js, Express and MongoDB**
 
 - 📫 How to reach me? **omkark6342@gmail.com**
