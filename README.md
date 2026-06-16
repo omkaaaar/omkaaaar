@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently working on building AlgoNode.
+im currently building AlgoNode.
 If you're prepping for interviews or just leveling up your DSA, give it a spin:
 [AlgoNode](https://algo-node.vercel.app)
 
